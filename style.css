@@ -19,13 +19,13 @@ body{
     font-optical-sizing: auto;
     font-style: normal;
     font-size: 15px;
+    background-color: var(--Navy);
 }
 
 .container{
     min-height: 100vh ;
     max-height: 300vh;
     width: 100%;
-    background-color: var(--Navy);
 
     display: flex;
     justify-content: center;
@@ -133,6 +133,12 @@ span{
     color: var(--Purple);
 }
 
+footer{
+    color: aliceblue;
+}
+footer .dev a{
+    color: bisque;
+}
 
 @media screen and (max-width:934px) {
     .card{
