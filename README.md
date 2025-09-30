@@ -2,4 +2,4 @@
 
 This is a solution to the [Stats preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/stats-preview-card-component-8JqbgoU62). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
-live site link 
+live site link https://nitish-gautam-git.github.io/Stats-preview-card-component/
